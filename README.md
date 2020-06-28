@@ -5,7 +5,7 @@
 * 영화소개 사이트
 ### 프로젝트 설명
 * html과 css와 javascript를 이용하여 섹션별로 동적효과를 부여하여 다양한 화면효과을 구성하였다.
-+ Canvas 애니메이션
++ Canvas 애니메이션  
 ![Avengers-animation](https://user-images.githubusercontent.com/15353850/85939979-99fb5c00-b954-11ea-9f3d-367e28e87632.gif)
 + toggle 줄거리
 ![toggle](https://user-images.githubusercontent.com/15353850/85940143-9ae0bd80-b955-11ea-98b9-40aa9a0b0114.png)
