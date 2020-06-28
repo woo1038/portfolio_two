@@ -13,7 +13,7 @@
 ![search](https://user-images.githubusercontent.com/15353850/85940172-ccf21f80-b955-11ea-837b-c29f134b3b31.gif)
 + slide-image효과
 ![photo](https://user-images.githubusercontent.com/15353850/85940145-9c11ea80-b955-11ea-9e70-8e63e63ebf8b.png)
-+ 반응형 작동 확인
++ 반응형 작동 확인  
 ![phone](https://user-images.githubusercontent.com/15353850/85940263-59044700-b956-11ea-8ceb-c28e110c5ca9.gif)
 
 
